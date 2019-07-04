@@ -1,0 +1,30 @@
+
+  body {
+    background-color: lightblue;
+    padding: 15px;
+    /*border: 10px solid transparent;
+    border-image: url(Daisy.png) 30 round;*/
+  }
+
+  hr {
+    border-style: dotted none none none;
+    width: 5%;
+    border-color: #ca5fa6;
+    border-width: 5px;
+  }
+
+  h1 {
+    color: #f36886;
+    font-size: 45px;
+    font-family: cursive;
+  }
+
+  h3 {
+    color: #fa8282;
+    font-family: monospace;
+    font-size: 20px;
+  }
+
+  .textme{
+    height: 200px;
+  }
